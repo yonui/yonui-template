@@ -6,6 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "_comment_build_component": "如需构建单个组件，使用命令 npm run build name=Button 即可",
     "build": "yonui build",
+    "zip": "yonui zip",
     "start": "yonui start",
     "deploy": "yonui publish",
     "lint": "eslint . --ext .ts,.tsx,.js,.jsx",

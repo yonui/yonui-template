@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/yonui/yonui-template/issues"
   },
-  "homepage": "https://github.com/yonui/yonui-template#readme"
+  "homepage": "https://github.com/yonui/yonui-template#readme",
+  "dependencies": {
+    "compressing": "^1.5.1",
+    "fs-extra": "^9.0.1",
+    "pump": "^3.0.0"
+  }
 }
