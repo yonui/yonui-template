@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "keyword": "demo library",
     "themes": "A demo component library.",
-    "description": "这是一个示例的组件库这是一个示例的组件库这是一个示例的组件库这是一个示例的组件库这是一个示例的组件库这是一个示例的组件库这是一个示例的组件库这是一个示例的组件库这是一个示例的组件库",
+    "description": "组件库的描述信息",
     "components": {
     }
 }
